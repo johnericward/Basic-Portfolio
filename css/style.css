@@ -1,0 +1,120 @@
+.myHeader {
+  /* position: relavtive; */
+  
+}
+
+.titleName {
+
+ margin: 1%;
+ text-align: center;
+ letter-spacing: 3px;
+  
+}
+
+.subtitle {
+  padding: 1%;
+  margin: 1%;
+  text-align: center;
+}
+
+
+
+
+/* START of MENU navigaton */
+
+.menuNav {
+  margin: 0 15%;
+  text-align: center;
+  
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #4b4b4b;
+    text-align: center;
+  }
+  
+  li {
+    float: left;
+    margin-left: 0 auto;
+    margin-right: 0 auto;
+    width: 33.33%;
+    
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: rgb(161, 161, 161);
+  }
+
+
+  /* END of MENU nav */
+
+  .aboutBody {
+    width: 80%;
+    padding: 0 25% 0 25%;
+    margin-left: 0 auto;
+    margin-right: 0 auto;
+}
+
+.handsomePerson {
+    width: 20%;
+    float: left;
+    margin: 2%;
+  }
+
+.aboutMe {
+    width: 35%;
+    float: left;
+    margin: 0 2%;
+
+  }
+
+/*
+
+.aboutBody {
+    width: 80%;
+    margin-left: 0 auto;
+    margin-right: 0 auto;
+}
+
+.handsomePerson {
+    width: 25%;
+    margin: 0 1%;
+    position: fixed;
+  
+    left: .5%;
+    top: 20%;
+  }
+
+.aboutMe {
+    margin-left: 35%;
+    margin-right: auto;
+    width: 40%;
+
+  }
+
+  */
+
+  .portfolio {
+    margin: 2% 15%;
+    text-align: center;
+  
+  }
+
+  .picsTable {
+
+    text-align: center;
+
+  }
