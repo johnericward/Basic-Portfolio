@@ -81,6 +81,8 @@ ul {
 
   }
 
+ 
+
 /*
 
 .aboutBody {
@@ -107,8 +109,18 @@ ul {
 
   */
 
+  .contactBody {
+    
+    padding: 0 15% 0 15%;
+    margin-left: 0 auto;
+    margin-right: 0 auto;
+    text-align: center;
+  }
+
+
+
   .portfolio {
-    margin: 2% 15%;
+    margin: 4% 15%;
     text-align: center;
   
   }
@@ -118,3 +130,14 @@ ul {
     text-align: center;
 
   }
+  
+
+  /*
+  .picsLIAlcott:hover {
+
+    background-color: red;
+    visibility: visible;
+
+  }
+
+  */
